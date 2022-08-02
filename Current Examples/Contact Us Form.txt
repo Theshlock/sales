@@ -1,0 +1,15 @@
+Hello {company_name}!
+My name is Samuel from Lockton Loaded ~ [^.*]
+
+We saw you were looking for a {role}.
+
+We would love to support you in your Mission to Unify your Clients' People, Processes and Business Data by testing by Freedom and Happiness.
+
+Samuel Lockton, Director.
+[^.*] LLC.
+
+
+- Go to the about page
+- Merge the mission statement
+- Note anything about the developer experience
+- Create a draft to the LinkedIn confirmation with the message and the notes
